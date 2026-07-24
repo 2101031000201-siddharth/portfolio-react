@@ -72,8 +72,8 @@ export const projects = [
     description:
       "Personal portfolio website to showcase my skills, projects, and contact information to potential employers.",
     tags: ["React.js", "Tailwind CSS"],
-    liveLink: "https://projects-mems.vercel.app",
-    githubLink: "https://github.com/2101031000201-siddharth",
+    liveLink: "https://portfolio-react-mu-sand.vercel.app",
+    githubLink: "https://github.com/2101031000201-siddharth/portfolio-react",
     image: `${import.meta.env.BASE_URL}screenshots/portfolio.png`,
   },
 ];
